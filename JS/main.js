@@ -18,4 +18,25 @@ function sumar(){
     let resultado= numero1+numero2+numero3;
     alert("la suma es " + resultado);
 }
+function restar(){
+    let numero1= 2;
+    let numero2= 3;
+    let numero3= 6;
+    let resultado= numero1-numero2-numero3;
+    alert("la resta es " + resultado);
+}
+function multiplicar(){
+    let numero1= 2;
+    let numero2= 3;
+    let numero3= 6;
+    let resultado= numero1*numero2*numero3;
+    alert("la multiplicacion es " + resultado);
+}
+function dividir(){
+    let numero1= 2;
+    let numero2= 3;
+    let numero3= 6;
+    let resultado= numero1/numero2/numero3;
+    alert("la division es " + resultado);
+}
 
